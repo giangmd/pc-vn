@@ -1,6 +1,6 @@
 {
   "name": "pc-vn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper to get provinces, cities, wards of Vietnam",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,15 @@
     "How to get these provinces of Vietnam",
     "How to get these cities of Vietnam"
   ],
+  "homepage": "https://github.com/giangmd/pc-vn#readme",
+  "bugs": {
+    "url" : "https://github.com/giangmd/pc-vn/issues",
+    "email" : "giangmd93@gmail.com"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/giangmd/pc-vn.git"
+  },
   "author": "giangmd",
   "license": "ISC",
   "devDependencies": {

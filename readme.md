@@ -4,7 +4,11 @@ A small package to help get Province, City, Wards of Vietnam
 
 ## Install
 
-    npm install pc-vn --save-dev
+    npm install pc-vn
+
+  or
+
+    yarn install pc-vn
 
 ## Functions
 | Function                                 | Desciption                                          |
